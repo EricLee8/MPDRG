@@ -1,0 +1,4 @@
+transformers==4.20.1
+nltk==3.7
+pycocoevalcap
+py-rouge
