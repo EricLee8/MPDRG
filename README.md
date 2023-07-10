@@ -23,10 +23,16 @@ $ bash run_finetune_ubuntu.sh [GPU_ID]
 ## Citation
 If you find our paper and repository useful, please cite us in your paper:
 ```
-@article{li2023em,
-  title={EM Pre-training for Multi-party Dialogue Response Generation},
-  author={Li, Yiyang and Zhao, Hai},
-  journal={arXiv preprint arXiv:2305.12412},
-  year={2023}
+@inproceedings{li-zhao-2023-em,
+    title = "{EM} Pre-training for Multi-party Dialogue Response Generation",
+    author = "Li, Yiyang  and
+      Zhao, Hai",
+    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.acl-long.7",
+    pages = "92--103",
 }
 ```
