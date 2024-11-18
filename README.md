@@ -20,6 +20,8 @@ After that, you can run the following command to fine-tune the pre-trained model
 $ bash run_finetune_ubuntu.sh [GPU_ID]
 ```
 
+If you want to do the pre-training, you can refer to the [code in our later work](https://github.com/EricLee8/MPD_EMVI/tree/main/pre-training) to do the pre-training, where the data is different but the codes are the same.
+
 ## Citation
 If you find our paper and repository useful, please cite us in your paper:
 ```
